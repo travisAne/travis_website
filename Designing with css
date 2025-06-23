@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Page</title>
+  <style>
+    h1 {
+      color: rgb(15, 128, 0);
+      text-align: center;
+      background-color :black;
+    }
+    p {
+       color:rgb(18, 43, 19);
+       background-color: rgb(60, 255, 0);;
+      font-size: 18px;
+        text-align: center;
+    }
+    body {
+        background-color:orange;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Welcome!</h1>
+  <p>Please accept our cookies.</p>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
